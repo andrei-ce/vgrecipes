@@ -1,0 +1,10 @@
+.btn-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center,
+}
+
+.ml-1 {
+  margin-left: 5px;
+}
